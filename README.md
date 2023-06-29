@@ -1,4 +1,7 @@
-### Hi there 👋
+No machine yet exists where grass is put \n
+in at one end and milk is output at the other. \n
+Therefore the Cow is king.
+
 
 <!--
 **ZebuSanctuary/ZebuSanctuary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
