@@ -1,6 +1,8 @@
 No machine yet exists where grass is put <br>
 in at one end and milk is output at the other. <br>
-Therefore the Cow is king. Moo  Zebu  }:o)  𓄀  𓃓
+Therefore the Cow is king. <br>
+Moo to you Zebu   }:o)  𓄀  𓃓
+
 
 
 <!--
