@@ -1,4 +1,4 @@
-No machine yet exists where grass is put \n
+No machine yet exists where grass is put <br>
 in at one end and milk is output at the other. <br>
 Therefore the Cow is king.
 
