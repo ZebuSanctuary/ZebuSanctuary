@@ -23,7 +23,7 @@
         
         function incrementSeconds() {
             seconds++     //+=1;
-            el.innerText = "You have been here for " + (1 + seconds) + " Seconds.";
+            el.innerText = "You have been here for " + (1 + seconds/10) + " Seconds.";
         
         var y = Math.pow(2, seconds);
         
@@ -32,7 +32,7 @@
         v.innerHTML += "<br>" + "Square " + (1 + seconds) + " ----  " + y + " Grains";
         //}
             
-                if (seconds >= 99) {
+                if (seconds >= 333) {
                     clearInterval(prince); 
         }}
         const prince = setInterval(incrementSeconds, 1000);
