@@ -10,7 +10,7 @@
 </head>
 <body>
     
-        <h2>Place one grain of rice on the first \n square of a chessboard then subsequently, keep doubling the rice grains.</h2>
+        <h2>Place one grain of rice on the first square of a chessboard then subsequently, keep doubling the rice grains.</h2>
         
         <div id='seconds-counter'> </div>
         
@@ -32,7 +32,7 @@
         v.innerHTML += "<br>" + "Square " + (1 + seconds) + " ----  " + y + " Grains";
         //}
             
-                if (seconds >= 64) {
+                if (seconds >= 63) {
                     clearInterval(prince); 
         }}
         const prince = setInterval(incrementSeconds, 1000);
